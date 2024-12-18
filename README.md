@@ -23,17 +23,21 @@ The `Stopwatch` component uses React hooks for state management:
 ## Installation
 
 To install the necessary dependencies, run:
+
 ```bash
 npm install react
+```
 
 ## Usage
 
 To use the stopwatch component, import it into your main application file:
+
 ```bash
 import Stopwatch from './Stopwatch';
 function App() {
-return <Stopwatch />;
+    return <Stopwatch />;
 }
+```
 
 ## Key Hooks and Logic
 
